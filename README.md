@@ -1,11 +1,13 @@
 
 # HarryPotterTriviaQuiz
 
-> Polls NBA  Players to pick the season MVP
+> Polls and Stores information for MVP candidates from a pool of players
 
 > Polling application that can import current NBA players and take their vote
 
-> Player Name Source: Basketball Reference
+> Personal project primarily utilizing Python, SQLite and basketball reference scraper
+
+
 
 ---
 
